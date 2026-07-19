@@ -1,1 +1,1 @@
-![Cool cat](togif.jpg)
+![Cool cat](togif.png)
